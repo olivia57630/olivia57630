@@ -1,14 +1,27 @@
 <h1 align="center">Hi 👋, I'm Yunah Kim</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
+- 🔭 I’m currently working on [Fake news detector](https://huggingface.co/spaces/olivia5763/FakeNews_Detector)
+
+- 🌱 I’m currently learning **Deep learning, NLP, model deployment (Docker + FastAPI)**
+
+- 👯 I’m looking to collaborate on **Machine learning / data visualization side projects**
+
+- 🤝 I’m looking for help with **Deep learning, Natural Language Processing, and cloud deployment (PyTorch, TensorFlow, FastAPI)**
+
 - 👨‍💻 All of my projects are available at [yunahkim.com](yunahkim.com)
 
 - 📝 I regularly write articles on [https://blog.naver.com/olivia5763](https://blog.naver.com/olivia5763)
 
+- 💬 Ask me about **Python, React, data visualization, or AI projects**
+
 - 📫 How to reach me **olivia5763@naver.com**
+
+- 📄 Know about my experiences [https://github.com/olivia57630/olivia57630/blob/main/Yunah%20Kim%20Resume%20-%20Google%20Docs.pdf](https://github.com/olivia57630/olivia57630/blob/main/Yunah%20Kim%20Resume%20-%20Google%20Docs.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yunah-kim-288627326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunah-kim-288627326" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
