@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunah Kim</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h3 align="center"> A passionate Data Scientist from Michigan State University </h3>
 
 - 🔭 I’m currently working on [Fake news detector](https://huggingface.co/spaces/olivia5763/FakeNews_Detector)
 
